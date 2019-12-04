@@ -31,6 +31,7 @@ proj/
 ├── figs/
 │    ├── MyNet_cm.png
 │    ├── MyNet_loss_curve.png   
+│    └── MyNet_acc_curve.png
 └── output/
      ├── MyNet.pth
      └── my_predictions.csv
