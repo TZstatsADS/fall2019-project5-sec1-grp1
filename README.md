@@ -25,6 +25,7 @@ proj/
 │     	      	    ├── DIAGNOSES_ICD.csv
 │     	            └── MORTALITY.csv
 ├── doc/
+│    ├── RNN.png
 ├── figs/
 │    ├── MyNet_cm.png
 │    ├── MyNet_loss_curve.png   
