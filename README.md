@@ -15,11 +15,23 @@ Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by
 
 ```
 proj/
+├── model_RNN.ipynb
 ├── lib/
 ├── data/
+│     ├── mortality/
+│             ├── data/
+│     	      │     ├── ADMISSIONS.csv
+│             │     ├── DIAGNOSES_ICD.csv
+│     	      │     └── MORTALITY.csv
+│     	      └── validation/
+│     	            ├── ADMISSIONS.csv
+│     	      	    ├── DIAGNOSES_ICD.csv
+│     	            └── MORTALITY.csv
 ├── doc/
 ├── figs/
+│    ├── MyNet_cm.png
+│    ├── MyNet_loss_curve.png   
 └── output/
+     ├── MyNet.pth
+     └── my_predictions.csv
 ```
-
-Please see each subfolder for a README file.
