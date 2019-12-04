@@ -1,4 +1,4 @@
-## ADS Project 5: Mortality Prediction Based on RNN with GRU units
+# ADS Project 5: Mortality Prediction Based on RNN with GRU units
 
 Term: Fall 2019
 
