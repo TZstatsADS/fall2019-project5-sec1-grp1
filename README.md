@@ -18,7 +18,7 @@ proj/
 ├── model_RNN.ipynb
 ├── lib/
 ├── data/
-│     ├── mortality/
+│     └── mortality/
 │             ├── data/
 │     	      │     ├── ADMISSIONS.csv
 │             │     ├── DIAGNOSES_ICD.csv
