@@ -10,6 +10,7 @@ Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by
 ```
 proj/
 ├── model_RNN.ipynb
+├── model_RNN - Jupyter Notebook.pdf
 ├── lib/
 ├── data/
 │     └── mortality/
